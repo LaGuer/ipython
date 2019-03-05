@@ -1,14 +1,14 @@
-.. image:: https://codecov.io/github/ipython/ipython/coverage.svg?branch=master
-    :target: https://codecov.io/github/ipython/ipython?branch=master
+.. image:: https://codecov.io/github/laguer/ipython/coverage.svg?branch=master
+    :target: https://codecov.io/laguer/ipython/ipython?branch=master
 
 .. image:: https://img.shields.io/pypi/v/IPython.svg
     :target: https://pypi.python.org/pypi/ipython
 
-.. image:: https://img.shields.io/travis/ipython/ipython.svg
-    :target: https://travis-ci.org/ipython/ipython
+.. image:: https://img.shields.io/travis/laguer/ipython.svg
+    :target: https://travis-ci.org/laguer/ipython
 
 .. image:: https://www.codetriage.com/ipython/ipython/badges/users.svg
-    :target: https://www.codetriage.com/ipython/ipython/
+    :target: https://www.codetriage.com/laguer/ipython/
 
 ===========================================
  IPython: Productive Interactive Computing
